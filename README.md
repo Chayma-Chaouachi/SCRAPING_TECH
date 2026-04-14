@@ -8,18 +8,19 @@ Il simule un cas réel de Data Engineering, en mettant en place un flux automati
 
 L’objectif est de construire un pipeline complet capable de :
 
-Extraire automatiquement des données depuis un site web
-Nettoyer et structurer les données avec Pandas
-Stocker les données dans une base SQLite
-Historiser les données brutes
-Organiser un projet selon les bonnes pratiques Data Engineering
+- Extraire automatiquement des données depuis un site web  
+- Nettoyer et structurer les données avec Pandas  
+- Stocker les données dans une base SQLite  
+- Historiser les données brutes  
+- Organiser un projet selon les bonnes pratiques Data Engineering  
 🌐 Source des données
 
 Les données sont extraites depuis :
 
 👉 https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
 
-🏗️ Architecture du projet
+## 🏗️ Architecture du projet
+
 scraping_tech_companies/
 │
 ├── src/
