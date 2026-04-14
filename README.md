@@ -21,6 +21,7 @@ Les données sont extraites depuis :
 👉 [https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/)
 
 ## 🏗️ Architecture du projet
+```
 scraping_tech_companies/
 │
 ├── src/
@@ -36,6 +37,7 @@ scraping_tech_companies/
 ├── check.py            # Vérification de la base de données
 ├── README.md
 └── .gitignore
+```
 
 ## 🔄 Pipeline ETL
 
